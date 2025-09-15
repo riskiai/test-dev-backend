@@ -22,42 +22,42 @@ Project ini berisi 9 soal dengan jawaban yang sudah saya implementasikan dalam k
 
 ### 3. Buat fungsi untuk mengambil hewan kesayangan Esa secara descending dan ascending
 **Jawaban No 3:**  
-![Jawaban 3](https://github.com/riskiai/test-dev-backend/blob/image/answer_3.png?raw=true)
+![Jawaban 3](https://github.com/riskiai/test-dev-backend/blob/main/assets/image/answer_3.png?raw=true)
 
 ---
 
 ### 4. Buat fungsi untuk mengganti kucing Persia menjadi kucing Maine Coon
 **Jawaban No 4:**  
-![Jawaban 4](https://github.com/riskiai/test-dev-backend/blob/image/answer_4.png?raw=true)
+![Jawaban 4](https://github.com/riskiai/test-dev-backend/blob/main/assets/image/answer_4.png?raw=true)
 
 ---
 
 ### 5. Buat fungsi untuk menghitung jumlah hewan peliharan esa sesuai dengan jenisnya
 **Jawaban No 5:**  
-![Jawaban 5](https://github.com/riskiai/test-dev-backend/blob/image/answer_5.png?raw=true)
+![Jawaban 5](https://github.com/riskiai/test-dev-backend/blob/main/assets/image/answer_5.png?raw=true)
 
 ---
 
 ### 6. Buat fungsi untuk mengecek hewan peliharaan esa yang mengandung kata palindrome beserta panjang string dari namanya
 **Jawaban No 6:**  
-![Jawaban 6](https://github.com/riskiai/test-dev-backend/blob/image/answer_6.png?raw=true)
+![Jawaban 6](https://github.com/riskiai/test-dev-backend/blob/main/assets/image/answer_6.png?raw=true)
 
 ---
 
 ### 7. Buat fungsi untuk menjumlah bilangan genap dari array berikut [15,18,3,9,6,2,12,14] dan munculkan bilangan genap nya 
 **Jawaban No 7:**  
-![Jawaban 7](https://github.com/riskiai/test-dev-backend/blob/image/answer_7.png?raw=true)
+![Jawaban 7](https://github.com/riskiai/test-dev-backend/blob/main/assets/image/answer_7.png?raw=true)
 
 ---
 
 ### 8. Buat fungsi dengan paramater yang di inisiasi sendiri untuk menentukan apakah dua string adalah anagram (memiliki huruf yang sama dengan jumlah yang sama, tetapi urutan berbeda).
 **Jawaban No 8:**  
-![Jawaban 8](https://github.com/riskiai/test-dev-backend/blob/image/answer_8.png?raw=true)
+![Jawaban 8](https://github.com/riskiai/test-dev-backend/blob/main/assets/image/answer_8.png?raw=true)
 
 ---
 
 ### 9. Buatkan fungsi yang memformat json (assets/json/case.json) menjadi seperti (assets/json/expectation.json)
 **Jawaban No 9:**  
-![Jawaban 9](https://github.com/riskiai/test-dev-backend/blob/image/answer_9.png?raw=true)
+![Jawaban 9](https://github.com/riskiai/test-dev-backend/blob/main/assets/image/answer_9.png?raw=true)
 
 ----
