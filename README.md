@@ -16,7 +16,7 @@ Project ini berisi 9 soal dengan jawaban yang sudah saya implementasikan dalam k
 
 ### 2. Buat fungsi untuk menambah hewan peliharaan baru Esa, yaitu seekor badak Jawa dengan nama Rino yang pekerja keras. yang juga menjadi kesayangan esa
 **Jawaban No 2:**  
-![Jawaban 2](https://github.com/riskiai/test-dev-backend/blob/image/answer_2.png?raw=true)
+![Jawaban 2](https://github.com/riskiai/test-dev-backend/blob/main/assets/image/answer_2.png?raw=true)
 
 ---
 
