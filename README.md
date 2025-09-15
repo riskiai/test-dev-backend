@@ -10,7 +10,7 @@ Project ini berisi 9 soal dengan jawaban yang sudah saya implementasikan dalam k
 
 ### 1. Buat data array dengan merepresentasikan jenis, ras, nama dan karakteristik
 **Jawaban No 1:**  
-![Jawaban 1](https://github.com/riskiai/test-dev-backend/blob/image/answer_1.png?raw=true)
+![Jawaban 1](https://github.com/riskiai/test-dev-backend/assets/image/answer_1.png?raw=true)
 
 ---
 
