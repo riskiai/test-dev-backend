@@ -1,0 +1,53 @@
+{
+  "name": "Esa",
+  "pets": [
+    {
+      "breed": "Golden Retriever",
+      "characteristic": "Energik dan senang bermain bola",
+      "name": "Otto",
+      "type": "Dog"
+    },
+    {
+      "breed": "Siberian Husky",
+      "characteristic": "Bulu lebat dan mata biru",
+      "name": "Max",
+      "type": "Dog"
+    },
+    {
+      "breed": "Beagle",
+      "characteristic": "Ceria dan aktif bermain di taman",
+      "name": "Bob",
+      "type": "Dog"
+    },
+    {
+      "breed": "Persia",
+      "characteristic": "Anggun dan manja",
+      "name": "Luna",
+      "type": "Cat"
+    },
+    {
+      "breed": "British Short Hair",
+      "characteristic": "Cerdas dan aktif",
+      "name": "Milo",
+      "type": "Cat"
+    },
+    {
+      "breed": "Koi",
+      "characteristic": "Indah dan menarik",
+      "name": "Nana",
+      "type": "Fish"
+    },
+    {
+      "breed": "Mas",
+      "characteristic": "Berwarna cerah",
+      "name": "Goldie",
+      "type": "Fish"
+    },
+    {
+      "breed": "Badak Jawa",
+      "characteristic": "Pekerja keras",
+      "name": "Rino",
+      "type": "Rhino"
+    }
+  ]
+}
